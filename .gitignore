@@ -1,0 +1,5 @@
+# Ignorar la carpeta Farmtcg en la raíz del repositorio
+Farmtcg/
+
+# Ignorar el archivo token.txt dentro de la carpeta recursos
+recursos/token.txt
