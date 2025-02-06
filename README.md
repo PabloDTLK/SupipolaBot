@@ -9,4 +9,4 @@ Puedes interactuar con el atraves de los suigientes comandos 🤓
 >- __/fruta__: SupipolaBot te regala una fruta aleatoria. 🥝
 >- __/hola__: SupipolaBot te saluda. 👋
 >- __/pensar__: SupipolaBot piensa. 🤯
->- __/usuarios__: Muestra el número de usuarios. 🫂
+>- __/usuarios__: Muestra el número de usuarios. 🦧
